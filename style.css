@@ -13,6 +13,50 @@ nav {
   background-color: #F39D0A;
 }
 
+heading1 {
+  color: #fff;
+  font-size: 30px;
+  margin-left: 5px;
+}
+
+heading2 {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+image {
+  margin-start: 5px;
+  float: left;
+}
+
+text {
+  color: #fff;
+}
+
+afterimagetext {
+  display: block;
+  color: #fff;
+  float: right;
+}
+
+hr {
+  display: block;
+  margin-before: 0.5em;
+  margin-after: 0.5em;
+  margin-start: auto;
+  margin-end: auto;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
+  width: 99%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 3px;
+  background-color:#fff;
+  opcaity: 0.5;
+}
+
 ul {
 
 }
@@ -20,8 +64,8 @@ ul {
 ul li {
   list-style: none;
   display: inline-block;
-  float: left;
   line-height: 100px;
+  float: left;
 }
 
 ul li a {
