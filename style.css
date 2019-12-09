@@ -15,29 +15,33 @@ nav {
 
 heading1 {
   color: #fff;
-  font-size: 30px;
+  font-size: 50px;
   margin-left: 5px;
 }
 
 heading2 {
   color: #fff;
-  font-size: 20px;
-  margin-left: 5px;
+  font-size: 40px;
+  margin: 5px;
 }
 
-image {
-  margin-start: 5px;
+imagey {
+  margin: 5px;
   float: left;
 }
 
-text {
+texti {
   color: #fff;
+  margin-left: 20px;
+  font-size: 20px;
+  margin: 5px;
 }
 
 afterimagetext {
   display: block;
   color: #fff;
-  float: right;
+  font-size: 20px;
+  margin-left: 10;
 }
 
 hr {
